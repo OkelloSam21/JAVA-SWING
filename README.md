@@ -1,3 +1,3 @@
 # JAVA-SWING
-THis repository contains my Swing (GUI) labs for java OOP.
+This repository contains my Swing (GUI) labs for java OOP.
 Feel free to make contributions to it.
